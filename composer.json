@@ -1,0 +1,5 @@
+{
+    "name": "magento/sampledata",
+    "description": "Magento Community SampleData",
+    "type": "magento-sample"
+}
